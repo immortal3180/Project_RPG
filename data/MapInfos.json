@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"世界地图","order":9,"parentId":0,"scrollX":960.6666666666666,"scrollY":540},
-{"id":2,"expanded":true,"name":"森林小镇","order":2,"parentId":9,"scrollX":960.6666666666666,"scrollY":630.6666666666666},
+{"id":2,"expanded":true,"name":"森林小镇","order":2,"parentId":9,"scrollX":971.3333333333334,"scrollY":630.6666666666666},
 {"id":3,"expanded":false,"name":"武器商店","order":3,"parentId":2,"scrollX":960.6666666666666,"scrollY":540},
 {"id":4,"expanded":false,"name":"物品商店","order":4,"parentId":2,"scrollX":960.6666666666666,"scrollY":540},
 {"id":5,"expanded":true,"name":"酒吧","order":7,"parentId":2,"scrollX":960.6666666666666,"scrollY":540},
